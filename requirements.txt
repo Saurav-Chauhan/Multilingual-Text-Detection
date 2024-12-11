@@ -1,0 +1,7 @@
+transformers
+pandas
+scikit-learn
+numpy
+torch
+datasets
+googletrans
